@@ -2,6 +2,16 @@
 Description
 This project features a music recommendation system that uses two main approaches to suggest songs:
 
+Description
+This project features a music recommendation system designed to suggest songs using two main approaches:
+
+Popularity-based Algorithm: Recommends songs based on overall popularity metrics, such as listen counts.
+Collaborative Filtering: Provides personalized recommendations by leveraging user preferences and similarities. This includes:
+User-based Collaborative Filtering: Recommends songs based on similarities between users.
+Item-based Collaborative Filtering: Recommends songs based on similarities between items (songs).
+Installation
+To get started with the music recommendation system, you'll need to install the necessary 
+
 Popularity-based Algorithm: Recommends universally popular songs to all users based on overall listen counts.
 Collaborative Filtering: Provides personalized recommendations by leveraging user preferences and similarities. It includes:
 User-based Collaborative Filtering: Recommends songs based on similarities between users.
