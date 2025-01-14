@@ -20,7 +20,11 @@ To execute the project, ensure the following:
 - **Python 3.x installed.** 
 - **Access to Google Colab for running the system.**
 - **Libraries: NumPy, Pandas, Scikit-learn, and TensorFlow/Keras (for neural networks).**  
-- **The Google music dataset for training the model.** 
+- **The Google music dataset for training the model.**
 
-### **Results**  
+### **Skills Demonstrated**  
+1. **Machine Learning, Neural Networks and Recommendation Systems**: Developed personalized music recommendations using collaborative and content-based filtering techniques.  
+2. **Data Analysis and Processing**: Utilized a large dataset to train models for accurate and tailored music suggestions.   
+
+### **Project Outcome**  
 The system delivers highly accurate and personalized music recommendations, effectively blending user preferences and popular trends. Its hybrid filtering approach ensures diverse and engaging song suggestions, while Colab integration makes it accessible and efficient.
