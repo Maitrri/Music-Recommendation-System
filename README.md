@@ -22,6 +22,26 @@ To execute the project, ensure the following:
 - **Libraries: NumPy, Pandas, Scikit-learn, and TensorFlow/Keras (for neural networks).**  
 - **The Google music dataset for training the model.**
 
+### **Setup Instructions for Music Recommendation System**  
+
+1. **Clone the Repository**
+2. **Install Dependencies**  
+   Install the required Python libraries and packages needed for the system to run smoothly. You can install them using the following command:  
+   ```bash  
+   pip install numpy pandas scikit-learn tensorflow  
+   ```
+3. **Obtain the Dataset**:  
+   The system uses a music dataset for training the recommendation models. You can either download the dataset from a public source or use your custom dataset. Make sure the dataset is stored in the correct directory (as specified in the code).  
+4. **Configure the Environment**:  
+   If you are using Google Colab, make sure to upload the dataset and set up the notebook environment. If running locally, ensure all necessary configurations are set for your environment (such as file paths).
+5. **Run the Project**:  
+   Once everything is set up, run the Python script or the notebook to preprocess the data, train the recommendation models, and generate personalized music recommendations. In Colab, execute the cells in the notebook. For local execution, run the main Python script:  
+   ```bash  
+   python music_recommendation_system.py  
+   ```
+6. **Review Results**:  
+   The system will generate personalized music recommendations for users. Visualizations (if implemented) will provide insights into the distribution of recommendations or trends in user preferences.
+
 ### **Skills Demonstrated**  
 1. **Machine Learning, Neural Networks and Recommendation Systems**: Developed personalized music recommendations using collaborative and content-based filtering techniques.  
 2. **Data Analysis and Processing**: Utilized a large dataset to train models for accurate and tailored music suggestions.   
