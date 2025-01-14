@@ -1,4 +1,4 @@
-# Enhanced Version: Intelligent Document Organization 
+# Intelligent Document Organization 
 
 The Intelligent Document Organization system is an AI-driven solution designed to optimize document management by automating the categorization and relocation of files within Google Drive. Using advanced tools like Pinecone and the Google Drive API, this system streamlines organizing large volumes of digital documents by analyzing content and recommending appropriate folders.  
 
@@ -20,14 +20,6 @@ To run the project, ensure the following:
 - Python 3.x installed.  
 - Google Drive API credentials with service account access.  
 - Optional: Google Colab or a local Python environment for execution.  
-
-### **Setup Instructions**  
-1. **Clone the Repository**:  
-   ```bash  
-   git clone https://github.com/Maitrri/intelligent-document-organization.git  
-   cd intelligent-document-organization  
-   ```  
-2. **Run the Project**: Follow the README instructions to execute the project.  
 
 ### **Results**  
 The system demonstrates high accuracy in categorizing documents and recommending folders, significantly simplifying document management. Users have praised its intuitive design, ease of use, and efficiency in handling large-scale document organization tasks.
