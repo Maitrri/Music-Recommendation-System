@@ -1,4 +1,4 @@
-# Music Recommendation System**  
+# Music Recommendation System
 
 The Music Recommendation System is an advanced solution designed to provide personalized song recommendations. Developed using Google Colab, Python, and Machine Learning algorithms, it leverages a comprehensive Google dataset to cater to users' unique music preferences. By integrating collaborative and content-based filtering techniques, the system ensures tailored and accurate music suggestions.  
 
